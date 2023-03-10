@@ -27,7 +27,7 @@ Hi, I am a nice Backend developer🎖
 <p>
   <img src="https://img.shields.io/badge/Python-F7DF1E?&logo=python&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Django-61DAFB?logo=Django&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Java-593D88?logo=Java&logoColor=white" />&nbsp   
+  <img src="https://img.shields.io/badge/-Java-593D88?logo=Java&logoColor=white" />&nbsp   
   <img src="https://img.shields.io/badge/Spring-339933?logo=Spring&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/SQL-F68212?&logo=SQL&logoColor=white"/>&nbsp
 </p>
