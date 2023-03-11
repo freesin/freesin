@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## Do Hyun Park 🌱
-Hi, I am a nice Backend developer🎖
+Hi, I am a good Backend developer🎖
 <br/>
 
 #### 🥇 Main skill
