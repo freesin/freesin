@@ -27,13 +27,15 @@ Hi, I am a good Backend developer🎖
 <p>
   <img src="https://img.shields.io/badge/Python-F7DF1E?&logo=python&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Django-61DAFB?logo=Django&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/-Java-593D88?logo=Java&logoColor=white" />&nbsp   
-  <img src="https://img.shields.io/badge/Spring-339933?logo=Spring&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/-Java-593D88?logo=java&logoColor=white" />&nbsp   
+  <img src="https://img.shields.io/badge/Spring-339933?logo=spring&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/SQL-F68212?&logo=SQL&logoColor=white"/>&nbsp
 </p>
 
 #### 🥈 Sub skill (trying to use)
 <p>
+  <img src="https://img.shields.io/badge/-Redis-3178C6?logo=Redis&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/-RabbitMQ-3178C6?logo=RabbitMQ&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/-JavaScript-3178C6?logo=JavaScript&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/-react-black?logo=react&logoColor=white" />
 </p>
