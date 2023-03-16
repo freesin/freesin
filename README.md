@@ -36,7 +36,7 @@ Hi, I am a good Backend developer🎖
 <p>
   <img src="https://img.shields.io/badge/-Redis-CC0000?logo=Redis&logoColor=black" />&nbsp 
   <img src="https://img.shields.io/badge/-RabbitMQ-3178C6?logo=RabbitMQ&logoColor=white" />&nbsp 
-  <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/-JavaScript-green?logo=JavaScript&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/-react-3178C6?logo=react&logoColor=white" />
 </p>
 
