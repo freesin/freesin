@@ -29,7 +29,7 @@ Hi, I am a good Backend developer🎖
   <img src="https://img.shields.io/badge/-Django-61DAFB?logo=Django&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/-Java-593D88?logo=java&logoColor=white" />&nbsp   
   <img src="https://img.shields.io/badge/Spring-339933?logo=spring&logoColor=white" />&nbsp 
-  <img src="https://img.shields.io/badge/PostgreSQL-F68212?&logo=SQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SQL-F68212?&logo=SQL&logoColor=white"/>&nbsp
 </p>
 
 #### 🥈 Sub skill (trying to use)
